@@ -1,0 +1,13 @@
+.app{
+  text-align: center;
+}
+
+.big{
+  text-transform: uppercase;
+}
+.line{
+  text-decoration: underline;
+}
+p.red{
+  color: red;
+}
